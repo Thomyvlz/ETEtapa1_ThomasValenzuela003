@@ -1,0 +1,10 @@
+#Credenciales Super usuario:
+
+user = admin
+password = 1234
+
+#Path:
+
+C:\Users\naxot\OneDrive\Escritorio\ETEtapa1_ThomasValenzuela003)\ETEtapa1_ThomasValenzuela003
+workon django_ambiente_virtual
+py manage.py runserver
